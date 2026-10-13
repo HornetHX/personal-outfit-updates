@@ -1,14 +1,14 @@
 {
-  "prerelease": false,
+  "tag_name": "v0.2.25",
   "draft": false,
-  "tag_name": "v0.2.24",
   "assets": [
     {
-      "digest": "sha256:ab66d64b649fcd6354c0b022404ef8d25b6459e7c591fff4ec72d8e3e10761ff",
-      "name": "personal-outfit-v0.2.24-release.apk",
-      "size": 4446603,
+      "size": 4495755,
+      "digest": "sha256:7819845fdff1cffb9faecb8cf03b08f3151d3c6397a2b3c834016aed508676a3",
+      "browser_download_url": "https://github.com/HornetHX/personal-outfit-updates/releases/download/v0.2.25/personal-outfit-v0.2.25-release.apk",
       "state": "uploaded",
-      "browser_download_url": "https://github.com/HornetHX/personal-outfit-updates/releases/download/v0.2.24/personal-outfit-v0.2.24-release.apk"
+      "name": "personal-outfit-v0.2.25-release.apk"
     }
-  ]
+  ],
+  "prerelease": false
 }
